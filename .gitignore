@@ -1,4 +1,7 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# Folders
+.vscode
+node_modules
+prototype
+
+# File types
+.DS_Store
